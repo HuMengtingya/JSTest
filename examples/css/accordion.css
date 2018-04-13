@@ -1,0 +1,47 @@
+/**{*/
+/*padding: 0px;*/
+/*margin: 0px;*/
+/*}*/
+#ids{
+    width:1100px;
+    height:450px;
+    /*border:solid 1px blue;*/
+}
+.ig{
+    width: 100px;
+    height:450px;
+    float:left;
+}
+.ig1{
+    background-image: url("../images/accordion/1.jpg");
+}
+.ig2{
+    background-image: url("../images/accordion/2.jpg");
+}
+.ig3{
+    background-image: url("../images/accordion/3.jpg");
+}
+.ig4{
+    background-image: url("../images/accordion/4.jpg");
+    width: 780px;
+}
+.txts{
+    width:100px;
+    heigth:450px;
+    -webkit-background: rgba(0,0,0,.4);
+    background: rgba(0,0,0,0.4);
+}
+.txts p{
+    color:rgb(255,255,255);
+    float:left;
+    margin: 15px;
+    -web-kit-float:left;
+}
+.p1{
+    width:12px;
+    font-size: 12px;
+}
+.p2{
+    width:14px;
+    font-size: 14px;
+}
